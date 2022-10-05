@@ -42,6 +42,11 @@ Full Report:
 http://shorturl.at/akN47
 ````
 
+Bottleneck Report:    
+````
+http://shorturl.at/bknSW
+````
+
 ##### Report Preview:
 ----
 
@@ -57,9 +62,15 @@ Full Report
 
 ![2022-10-05_190526](https://user-images.githubusercontent.com/93009180/194068099-057163cd-e763-43f8-a1dd-90272d8abf4c.png)
 
+<p align="left">
+Battleneck report
+</p><br/>
+
+
+![2022-10-05_192452](https://user-images.githubusercontent.com/93009180/194071600-fdb0d06f-b14c-4742-9c48-da9ef8495e82.png)
+
 
 <br/><br/><br/>
-
 <p align="center">
 ✨THANK YOU✨
 </p><br/>
