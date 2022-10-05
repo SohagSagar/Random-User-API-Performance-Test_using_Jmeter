@@ -1,0 +1,18 @@
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,Test Type,Load Test Strategy,,Result,Expected Throughput,2.777778,
+,,Server,https://random-data-api.com/api/v2/users,,,Actual Throughput,2.68759,
+,,Test_Cases,Hour,Minutes,Second,User,Throughput,Error %
+,,Expected User,12,720,43200,120000,,
+,,,1,60,3600,10000,,
+,,,0,1,60,166.6666667,2.777777778,
+,,Expected TPS,,,,,2.777777778,
+,,Test_ID,,,,,,
+,,Load_Test_001,0,1,60,166.6666667,2.7508,0.00%
+,,Load_Test_002,0,10,600,1666.666667,2.77597,0.00%
+,,Load_Test_003,0,20,1200,3333.333333,2.77685,0.12%
+,,Load_Test_004,0,30,1800,5000,2.78582,1.64%
+,,Load_Test_005,0,35,2100,5000,2.38087,0.00%
+,,Load_Test_006,0,32,1920,5000,2.60354,0.00%
+,,Load_Test_007,0,31,1860,5000,2.68759,0.00%

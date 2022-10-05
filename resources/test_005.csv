@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+calling random data,5000,1286,765,8845,1061.97,0.000%,2.38087,3.63,0.31,1560.3
+TOTAL,5000,1286,765,8845,1061.97,0.000%,2.38087,3.63,0.31,1560.3
